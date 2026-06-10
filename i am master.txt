@@ -1,6 +1,7 @@
 i am master 
 
-login
+payment
+google pay 
 
 
 
