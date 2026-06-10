@@ -2,6 +2,7 @@ i am master
 
 payment
 google pay 
+phone pay 
 
 
 
