@@ -1,9 +1,8 @@
-i am master 
-
+i am master
 payment
-google pay 
-phone pay 
-
-
-
-
+google pay
+phone pe 
+user
+comment
+change
+final
